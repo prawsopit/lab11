@@ -40,8 +40,6 @@ int main(){
 	cout << "C = " << count[2] <<", ";	
 	cout << "D = " << count[3] <<", ";	
 	cout << "F = " << count[4];	
-
-
 	
 	return 0;
 }
